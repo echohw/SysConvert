@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SysConvert</string>
+    <string name="action_settings">Settings</string>
+
+    <drawable name="about_normal">#ffffff</drawable>
+    <drawable name="about_pressed">#D2D2D2</drawable>
+    <drawable name="clear_normal">#D2D2D2</drawable>
+    <drawable name="clear_pressed">#F7F8F9</drawable>
+
+    <string name="title_activity_use_help">Use_help</string>
+    <string name="title_activity_transform_method">Transform_method</string>
+
+</resources>
